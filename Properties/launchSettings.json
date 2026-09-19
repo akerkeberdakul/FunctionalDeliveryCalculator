@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FunctionalDeliveryCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

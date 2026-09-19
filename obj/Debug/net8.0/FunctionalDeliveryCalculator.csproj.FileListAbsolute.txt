@@ -1,0 +1,14 @@
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\bin\Debug\net8.0\FunctionalDeliveryCalculator.exe
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\bin\Debug\net8.0\FunctionalDeliveryCalculator.deps.json
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\bin\Debug\net8.0\FunctionalDeliveryCalculator.runtimeconfig.json
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\bin\Debug\net8.0\FunctionalDeliveryCalculator.dll
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\bin\Debug\net8.0\FunctionalDeliveryCalculator.pdb
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.AssemblyInfoInputs.cache
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.AssemblyInfo.cs
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.dll
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\refint\FunctionalDeliveryCalculator.dll
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.pdb
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\FunctionalDeliveryCalculator.genruntimeconfig.cache
+C:\Users\Akerke\source\repos\FunctionalDeliveryCalculator\obj\Debug\net8.0\ref\FunctionalDeliveryCalculator.dll
